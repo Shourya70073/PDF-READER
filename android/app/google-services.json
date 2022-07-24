@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "360160034467",
+    "project_id": "pdfv-730fb",
+    "storage_bucket": "pdfv-730fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360160034467:android:2244d6daefb887d6058916",
+        "android_client_info": {
+          "package_name": "com.example.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360160034467-kqg6fvc4t1p30thi33thism85hh5neca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhda0uFOPWkewxhTP18RsNQR8mrEPWX38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360160034467-kqg6fvc4t1p30thi33thism85hh5neca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
